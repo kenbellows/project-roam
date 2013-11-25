@@ -150,3 +150,14 @@ There are two major types of events:
 1. Simple happenings: These will be updated to a sidebar with a list of recent events, with the ability to scroll back in time, possibly with logging capability.
 2. Important happenings: Theses directly affect the character or scene. A semi-intrusive popup will appear with a countdown within which the player must react, else the event progresses as if the player simply continued doing whatever they were already doing. The popup should not prevent the player from doing anything, but it should be much more obvious and more difficult to ignore than the simple happenings in the sidebar. The important events will still be added to the sidebar, but will be bold, or a different color, or something else to mark them as different from the simple happenings.
 
+
+
+
+
+### Abstract Ideas
+
+These are some ideas that would be nice, but aren't fully formed yet.
+
+- Once the world and all its various classes are defined, it would be cool to have a multiplayer environment with several possible interfaces, e.g. FPPOV interacting with Rogue-like and thrid person flyover, a la Golden Sun and similar games.
+
+- Story idea: Insert the player into a running simulation as a spirit/energy being trying to escape the world, something like that. At first, the player is trapped in a single character's body. Later the player gains the ability to jump from body to body, becoming other people, animals, possibly even inhabiting plants at some points. This would need to be a game with a graphical interface, though.
